@@ -1,2 +1,0 @@
-# javacalismalari
-kendi java çalışmalarım
